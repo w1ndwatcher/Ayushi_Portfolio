@@ -1,7 +1,7 @@
 # Ayushi's Portfolio
 
 ## [Machine Learning Assignments](https://github.com/w1ndwatcher/mlpractice)
-This include peojects I learnt Machine Learning concepts on using python, pandas, scikitlearn, matplotlib.
+This includes projects I am Machine Learning concepts on using python, pandas, scikitlearn, matplotlib.
  
 ## [Python assignments](https://github.com/w1nterb1rd/Python-Assignments) <br>
 This section consists of assignments about using Python for data science. This includes:-
