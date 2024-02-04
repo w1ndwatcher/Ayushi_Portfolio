@@ -1,7 +1,10 @@
 # Ayushi's Portfolio
 
 ## [Machine Learning Assignments](https://github.com/w1ndwatcher/mlpractice)
-This includes projects I am Machine Learning concepts on using python, pandas, scikitlearn, matplotlib.
+This includes projects I am learning using Machine Learning concepts on using python, pandas, scikitlearn, matplotlib.
+
+## [Application Development](https://github.com/w1nterb1rd/flask-vue-crud-blog)
+A simple CRUD Blogging Web Application using Flask, Vue2, SQlite and SQLAlchemy ORM.
  
 ## [Python assignments](https://github.com/w1nterb1rd/Python-Assignments) <br>
 This section consists of assignments about using Python for data science. This includes:-
